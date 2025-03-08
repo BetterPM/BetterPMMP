@@ -1,4 +1,4 @@
-# Note: This is a fork of Pocketmine V5.25.2
+# Note: This is a fork of Pocketmine MP and will receive Updates that make this similar to Pocketmine but will have more features and improvements
 <p align="center">
 	<a href="https://pmmp.io">
 		<!--[if IE]>
